@@ -27,7 +27,7 @@ Modern ve kullanıcı dostu arayüzü ile kredi hesaplamalarınızı kolayca yap
 
 1. Projeyi bilgisayarınıza indirin:
 ```bash
-git clone https://github.com/ozkanydin/kredi_hesaplama.git
+git clone https://github.com/ozkanydin/loan_calculator.git
 cd loan_calculator
 ```
 
